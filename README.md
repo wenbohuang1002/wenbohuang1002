@@ -10,7 +10,7 @@
 ![Wenbohuang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wenbohuang1002&layout=compact&hide_border=true&langs_count=10&theme=dark)  
 <table>
   <tr>
-    <th><img src="https://wenohuang1002.top/running/assets/github_2021.svg"/></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=wenbohuang1002&show_icons=true&count_private=true&hide=prs&theme=dark"/></th>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbohuang1002&layout=compact&hide_border=true&langs_count=10&theme=dark"/></th>
   </tr>
   <tr>
