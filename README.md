@@ -6,7 +6,7 @@
 #### 📫 How to contact me: wenohuang1002@outlook.com
 #### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
 #### 😄 Thank you!
-![counter](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](http://antzuhl.cn:4000/get/@wenbohuang1002.readme)
 ![info](https://github-readme-stats.vercel.app/api?username=wenbohuang1002&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 <!--
