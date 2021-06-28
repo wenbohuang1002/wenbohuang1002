@@ -6,7 +6,7 @@
 #### 📫 How to contact me: wenbohuang1002@outlook.com
 #### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
 #### 😄 Thank you!  
-![Wenbohuang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wenbohuang1002&layout=compact&hide_border=true&langs_count=10&theme=dark)
+![Wenbohuang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wenbohuang1002&layout=compact&hide_border=true&langs_count=10&theme=dark)  
 ![info](https://github-readme-stats.vercel.app/api?username=wenbohuang1002&show_icons=true&count_private=true&hide=prs&theme=dark) 
 
 
