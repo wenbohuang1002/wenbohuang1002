@@ -6,7 +6,7 @@
 #### 📫 How to contact me: wenohuang1002@outlook.com
 #### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
 #### 😄 Thank you!
-![info](https://github-readme-stats.vercel.app/api?username=wenbohuang1002&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=wenbohuang1002&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 <!--
 **wenbohuang1002/wenbohuang1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
