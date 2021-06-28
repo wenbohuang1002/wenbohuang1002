@@ -1,12 +1,12 @@
 # 👋 Hi there, welcome!
-### 🔭 I'm currently purchasing Master's Degree at Nanjing Normal University.
-### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
-### 💬 Ask me about some problems about HAR.
-### 👯 I want to find a better school to sutdy for my Ph.D.
-### 📫 How to contact me: wenohuang1002@outlook.com
-### ⚡ May Homepage at [here](https://wenbohuang1002.github.io/)
-### 😄 Thank you!
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenbohuang1002)](https://github.com/anuraghazra/github-readme-stats)
+#### 🔭 I'm currently purchasing Master's Degree at Nanjing Normal University.
+#### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
+#### 💬 Ask me about some problems about HAR.
+#### 👯 I want to find a better school to sutdy for my Ph.D.
+#### 📫 How to contact me: wenohuang1002@outlook.com
+#### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
+#### 😄 Thank you!
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenbohuang1002)?theme=onedark](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wenbohuang1002/wenbohuang1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
