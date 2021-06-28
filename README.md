@@ -2,7 +2,8 @@
 #### 🔭 I'm currently purchasing Master's Degree at Nanjing Normal University.
 #### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
 #### 💬 Ask me about some problems about HAR.
-#### 👯 I want to find a better school to sutdy for my Ph.D.
+#### 🧷 I want to find a better school to sutdy for my Ph.D.
+#### 🚀 My tool: Python
 #### 📫 How to contact me: wenbohuang1002@outlook.com
 #### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
 #### 😄 Thank you!   
@@ -15,7 +16,7 @@
     
   </tr>
 </table>
-#### 🚀 My tool: 
+
 
 <!--
 **wenbohuang1002/wenbohuang1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
