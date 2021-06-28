@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there
+### 🔭 I'm currently purchasing Master's Degree at Nanjing Normal University.
+### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
+### 📫 How to contact me: wenohuang1002@outlook.com
+### ⚡ May Homepage at [here](https://wenbohuang1002.github.io/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenbohuang1002)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
