@@ -8,7 +8,7 @@
 #### 😄 Thank you!  
 ![](http://antzuhl.cn:4000/get/@wenbohuang1002.readme)  
 ![info](https://github-readme-stats.vercel.app/api?username=wenbohuang1002&show_icons=true&count_private=true&hide=prs&theme=dark)  
-![Wenbohuang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wenbohuang1002 GitHub ID&layout=compact&hide_border=true&langs_count=10)
+![Wenbohuang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wenbohuang1002 GitHub ID&layout=compact&hide_border=true&langs_count=10)
 
 
 
