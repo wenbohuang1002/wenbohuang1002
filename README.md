@@ -1,12 +1,17 @@
 # 👋 Hi there, welcome!
+#### 🚗 I come from Nanjing, Jiangsu, China.
+#### 👪 I love my family and my cat Orange 😺.
+#### 🦅 Fighting for a better life.
 #### 🔭 I'm currently purchasing Master's Degree at Nanjing Normal University.
 #### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
 #### 💬 Ask me about some problems about HAR.
-#### 🧷 I want to find a better school to sutdy for my Ph.D.
+#### 🧷 I'm looking for a better school to sutdy for my Ph.D.
+#### 🚁 I want to have my own car.
+#### 🎮 You can play ☆Yo☆Gi☆Oh☆ with me, my friend code: 001-168-749
 #### 🚀 My tool: Python
 #### 📫 How to contact me: wenbohuang1002@outlook.com
 #### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
-#### 😄 Thank you!   
+#### 😄 Thank you! ⛄   
 <table>
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=wenbohuang1002&show_icons=true&count_private=true&hide=prs&theme=dark"/></th>
