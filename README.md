@@ -1,7 +1,7 @@
 # 👋 Hi there, welcome!
 #### 🔭 I'm currently purchasing Master's Degree at Nanjing Normal University.
 #### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
-#### 💬 Ask me about some problems about HAR.
+#### 💬 Ask me about some problems in HAR.
 #### 🧷 I'm looking for a better school to sutdy for my Ph.D.
 #### 🚀 My tool: Python
 # 🎡 How to contact me: 
