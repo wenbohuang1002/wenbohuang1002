@@ -6,6 +6,7 @@
 #### 🚀 My tool: Python
 # 🎡 How to contact me: 
 #### 📫 E-mail: wenbohuang1002@outlook.com or 191802024@njnu.edu.cn
+#### 🎃 Gitee: [wenbohuang1002](https://gitee.com/wenbohuang1002)
 #### 📮 ORCID: [0000-0002-6664-1172](https://orcid.org/0000-0002-6664-1172)
 #### 👩‍🎓 ResearchGate: [Wenbo-Huang](https://www.researchgate.net/profile/Wenbo-Huang-9)
 #### 🎓 My Google Scolar: [Wenbo Huang](https://scholar.google.com/citations?user=yFBDPqcAAAAJ&hl=zh-CN)
