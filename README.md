@@ -9,8 +9,9 @@
 #### 🎃 Gitee: [wenbohuang1002](https://gitee.com/wenbohuang1002)
 #### 📮 ORCID: [0000-0002-6664-1172](https://orcid.org/0000-0002-6664-1172)
 #### 👩‍🎓 ResearchGate: [Wenbo-Huang](https://www.researchgate.net/profile/Wenbo-Huang-9)
-#### 🎓 My Google Scolar: [Wenbo Huang](https://scholar.google.com/citations?user=yFBDPqcAAAAJ&hl=zh-CN)
-#### 🌌 CSDN: [Dangerous_Zombie](https://blog.csdn.net/Dangerous_Zombie)
+#### 🎓 My Google Scolar: [Wenbo Huang (黄文博)](https://scholar.google.com/citations?user=yFBDPqcAAAAJ&hl=zh-CN)
+#### 🌌 CSDN: [Dangerous_Zombie](https://www.koushare.com/)
+#### 🌌 KouShare: [黄文博](https://blog.csdn.net/Dangerous_Zombie)
 #### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
 #### 🎮 You can play [☆Yo☆Gi☆Oh☆](http://ygo.163.com/) with me, my friend code: 001-168-749
 #### 😄🦅🚁👯🗿 Thank you! ⛄👪😺🐈🔬
