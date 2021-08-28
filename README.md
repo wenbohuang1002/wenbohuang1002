@@ -3,7 +3,7 @@
 #### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
 #### 💬 Ask me about some problems in HAR.
 #### 🧷 I'm looking for a better school to sutdy for my Ph.D.
-#### 🚀 My tool: Python
+#### 🚀 My tool: Python <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/>  </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/>
 # 🎡 How to contact me: 
 #### 📫 E-mail: wenbohuang1002@outlook.com or 191802024@njnu.edu.cn
 #### 🎃 Gitee: [wenbohuang1002](https://gitee.com/wenbohuang1002)
