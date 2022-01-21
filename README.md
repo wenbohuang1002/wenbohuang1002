@@ -2,7 +2,7 @@
 #### 🔭 I'm currently pursuing Master's Degree at Nanjing Normal University.
 #### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
 #### 💬 Ask me about some problems in HAR.
-#### 🧷 I'm looking for a better school to sutdy for my Ph.D.
+#### 🧷 I'm addmitted as a Ph.D student by <a href="http://palm.seu.edu.cn/">PALM Lab</a> in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. .
 #### 🚀 My tool: <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16" height="16"/> Python
 # 🎡 How to contact me: 
 #### 📫 E-mail: wenbohuang1002@outlook.com or 191802024@njnu.edu.cn
