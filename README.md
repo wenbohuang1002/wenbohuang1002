@@ -5,14 +5,14 @@
 #### 🧷 I'm addmitted as a Ph.D student by <a href="http://palm.seu.edu.cn/">PALM Lab</a> in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. .
 #### 🚀 My tool: <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16" height="16"/> Python
 # 🎡 How to contact me: 
-#### 📫 E-mail: wenbohuang1002@outlook.com or 191802024@njnu.edu.cn
-#### 🎃 Gitee: [wenbohuang1002](https://gitee.com/wenbohuang1002)
-#### 📮 ORCID: [0000-0002-6664-1172](https://orcid.org/0000-0002-6664-1172)
-#### 👩‍🎓 ResearchGate: [Wenbo-Huang](https://www.researchgate.net/profile/Wenbo-Huang-9)
-#### 🎓 My Google Scolar: [Wenbo Huang (黄文博)](https://scholar.google.com/citations?user=yFBDPqcAAAAJ&hl=zh-CN)
-#### 🌌 CSDN: [Dangerous_Zombie](https://blog.csdn.net/Dangerous_Zombie)
-#### 🥚 KouShare (蔻享): [黄文博](https://www.koushare.com/)
-#### 🍚 Publons: [AAW-9608-2021](https://publons.com/researcher/4645353/wenbo-huang/)
+#### 📫 E-mail: wenbohuang1002<b>AT</b>outlook<b>DOT</b>com or 191802024<b>AT</b>njnu<b>DOT</b>edu<b>DOT</b>cn
+#### 🎃 Gitee: [wenbohuang1002]( )
+#### 📮 ORCID: [0000-0002-6664-1172]( )
+#### 👩‍🎓 ResearchGate: [Wenbo-Huang]( )
+#### 🎓 My Google Scolar: [Wenbo Huang (黄文博)]( )
+#### 🌌 CSDN: [Dangerous_Zombie]( )
+#### 🥚 KouShare (蔻享): [黄文博]( )
+#### 🍚 Publons: [AAW-9608-2021]( )
 #### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
 #### 🎮 You can play [☆Yo☆Gi☆Oh☆](http://ygo.163.com/) with me, my friend code: 001-168-749
 #### 😄🦅🚁👯🗿 Thank you! ⛄👪😺🐈🔬
