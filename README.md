@@ -5,7 +5,7 @@
 #### 🧷 I'm addmitted as a Ph.D student by <a href="http://palm.seu.edu.cn/">PALM Lab</a> in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. .
 #### 🚀 My tool: <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16" height="16"/> Python
 # 🎡 How to contact me: 
-#### 📫 E-mail: wenbohuang1002<b>AT</b>outlook<b>DOT</b>com or 191802024<b>AT</b>njnu<b>DOT</b>edu<b>DOT</b>cn
+#### 📫 E-mail: wenbohuang1002 AT outlook DOT com or 191802024 AT njnu DOT edu DOT cn
 #### 🎃 Gitee: [wenbohuang1002]( )
 #### 📮 ORCID: [0000-0002-6664-1172]( )
 #### 👩‍🎓 ResearchGate: [Wenbo-Huang]( )
