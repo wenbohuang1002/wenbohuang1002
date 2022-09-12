@@ -1,5 +1,5 @@
 # 👋 Hi there, welcome!
-#### 🔭 I'm a Ph.D student of <a href="http://palm.seu.edu.cn/">PALM Lab</a> in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. 
+#### 🔭 I'm a Ph.D student in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. 
 #### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
 #### 💬 Ask me about some problems in HAR.
 #### 🧷 I received Master's Degree at Nanjing Normal University.
