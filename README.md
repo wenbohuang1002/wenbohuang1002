@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-[![wenbohuang1002](https://count.getloli.com/get/@wenbohuang1002)](https://wenbohuang1002.github.io)
+[![wenbohuang1002](https://count.getloli.com/get/@wenbohuang1002x)](https://wenbohuang1002x.github.io)
 
   
 <!--
