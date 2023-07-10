@@ -5,7 +5,7 @@
 #### 🧷 I received Master's Degree at Nanjing Normal University.
 #### 🚀 My tool: <a href="https://www.python.org" target="_blank"> Python
 # 🎡 How to contact me: 
-#### 📫 E-mail: wenbohuang1002 AT outlook DOT com or 191802024 AT njnu DOT edu DOT cn
+#### 📫 E-mail: wenbohuang1002 AT outlook DOT com or 191802024 AT njnu DOT edu DOT cn or wenbohuang1002@seu.edu.cn
 #### 🎃 Gitee: [wenbohuang1002]( )
 #### 📮 ORCID: [0000-0002-6664-1172]( )
 #### 👩‍🎓 ResearchGate: [Wenbo-Huang]( )
