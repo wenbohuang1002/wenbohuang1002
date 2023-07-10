@@ -1,6 +1,6 @@
 # 👋 Hi there, welcome!
 #### 🔭 I'm a Ph.D student in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. 
-#### 🌱 My research intersets include Machine Learning, Deep Learning and Human Activity Recognition.
+#### 🌱 My research interests include Machine Learning, Deep Learning and Human Activity Recognition.
 #### 💬 Ask me about some problems in HAR.
 #### 🧷 I received Master's Degree at Nanjing Normal University.
 #### 🚀 My tool: <a href="https://www.python.org" target="_blank"> Python
@@ -18,8 +18,8 @@
 #### 😄🦅🚁👯🗿 Thank you! ⛄👪😺🐈🔬
 <table>
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=wenbohuang1002&show_icons=true&count_private=true&hide=prs&theme=dark"/></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbohuang1002&layout=compact&hide_border=true&langs_count=10&theme=dark"/></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=wenbohuang1002x&show_icons=true&count_private=true&hide=prs&theme=dark"/></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbohuang1002x&layout=compact&hide_border=true&langs_count=10&theme=dark"/></th>
   </tr>
   <tr>
    
