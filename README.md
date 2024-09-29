@@ -1,9 +1,6 @@
-# 👋 Hi there, welcome!
+# 👋💬 Hi there, welcome! 🧷🚀
 #### 🔭 I'm a Ph.D student in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. 
 #### 🌱 My research interests include Video Analysitic, Multimedia, and Ubiquitous Computing.
-#### 💬 Ask me about some problems in HAR.
-#### 🧷 I received Master's Degree at Nanjing Normal University.
-#### 🚀 My tool: <a href="https://www.python.org" target="_blank"> Python
 # 🎡 How to contact me: 
 #### 📫 E-mail: wenbohuang1002 AT outlook DOT com or 191802024 AT njnu DOT edu DOT cn or wenbohuang1002 AT seu DOT edu DOT cn
 #### 🎃 Gitee: [wenbohuang1002]( )
