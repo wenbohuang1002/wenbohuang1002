@@ -1,6 +1,6 @@
 # 👋 Hi there, welcome!
 #### 🔭 I'm a Ph.D student in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. 
-#### 🌱 My research interests include Machine Learning, Deep Learning and Human Activity Recognition.
+#### 🌱 My research interests include Video Analysitic, Multimedia, and Ubiquitous Computing.
 #### 💬 Ask me about some problems in HAR.
 #### 🧷 I received Master's Degree at Nanjing Normal University.
 #### 🚀 My tool: <a href="https://www.python.org" target="_blank"> Python
