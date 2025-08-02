@@ -1,6 +1,6 @@
 # 👋💬 Hi there, welcome! 🧷🚀
 #### 🔭 Ph.D candidate in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. 
-#### 🕹️ Government-Sponsored Visiting Ph.D in the <a href="https://educ.titech.ac.jp/">Department of Computer Science</a>, <a href="https://www.isct.ac.jp/">Institute of Science Tokyo (旧・東京工業大学)</a>.
+#### 🕹️ Government-Sponsored Visiting Ph.D in the <a href="https://educ.titech.ac.jp/cs/">Department of Computer Science</a>, <a href="https://www.isct.ac.jp/">Institute of Science Tokyo (旧・東京工業大学)</a>.
 #### 🌱 My research interests include Video Analysis, Multimedia, and Ubiquitous Computing.
 # 🎡 How to contact me: 
 #### 📫 E-mail: wenbohuang1002 AT outlook DOT com or seu DOT edu DOT cn
