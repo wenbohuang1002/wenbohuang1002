@@ -1,17 +1,10 @@
 # 👋💬 Hi there, welcome! 🧷🚀
-#### 🔭 I'm a Ph.D student in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. 
-#### 🌱 My research interests include Video Analytic, Multimedia, and Ubiquitous Computing.
+#### 🔭 Ph.D candidate in <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>. 
+#### 🕹️ Government-Sponsored Visiting Ph.D in the <a href="https://educ.titech.ac.jp/">Department of Computer Science</a>, <a href="https://www.isct.ac.jp/">Institute of Science Tokyo (旧・東京工業大学)</a>.
+#### 🌱 My research interests include Video Analysis, Multimedia, and Ubiquitous Computing.
 # 🎡 How to contact me: 
-#### 📫 E-mail: wenbohuang1002 AT outlook DOT com or 191802024 AT njnu DOT edu DOT cn or wenbohuang1002 AT seu DOT edu DOT cn
-#### 🎃 Gitee: [wenbohuang1002]( )
-#### 📮 ORCID: [0000-0002-6664-1172]( )
-#### 👩‍🎓 ResearchGate: [Wenbo-Huang]( )
-#### 🎓 My Google Scolar: [Wenbo Huang (黄文博)]( )
-#### 🌌 CSDN: [Dangerous_Zombie]( )
-#### 🥚 KouShare (蔻享): [黄文博]( )
-#### 🍚 Publons: [AAW-9608-2021]( )
+#### 📫 E-mail: wenbohuang1002 AT outlook DOT com or seu DOT edu DOT cn
 #### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
-#### 🎮 You can play [☆Yo☆Gi☆Oh☆](http://ygo.163.com/) with me, my friend code: 001-168-749
 #### 😄🦅🚁👯🗿 Thank you! ⛄👪😺🐈🔬
 <table>
   <tr>
