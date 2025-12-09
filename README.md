@@ -6,7 +6,7 @@
 #### 📫 E-mail: wenbohuang1002 AT outlook DOT com or seu DOT edu DOT cn
 #### ⚡ My Homepage is [https://wenbohuang1002.github.io/](https://wenbohuang1002.github.io/)
 #### 😄🦅🚁👯🗿 Thank you! ⛄👪😺🐈🔬
-<table>
+<!-- <table>
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=wenbohuang1002&show_icons=true&count_private=true&hide=prs&theme=dark"/></th>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbohuang1002&layout=compact&hide_border=true&langs_count=10&theme=dark"/></th>
@@ -14,7 +14,7 @@
   <tr>
    
   </tr>
-</table>
+</table> -->
 
 [![wenbohuang1002](https://count.getloli.com/get/@wenbohuang1002)](https://wenbohuang1002.github.io)
 
